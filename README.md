@@ -50,7 +50,7 @@
 
 <!-- [<img align="left" alt="Facebook" width="36px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_facebook-512.png" />][facebook] -->
 
-[twitter]:
+<!-- [twitter]: -->
 [instagram]: https://www.instagram.com/jagruti_mahapatra/
-[linkedin]:
-[facebook]:
+<!-- [linkedin]:
+[facebook]: -->
