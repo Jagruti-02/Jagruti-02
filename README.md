@@ -10,6 +10,11 @@
 
 <img align="left" alt="CSS3" width="36px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" />
 
+<img align="left" alt="JS" width="36px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" />
+
+
+
+
 
 
 <!-- <img align="left" alt="JavaScript" width="36px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" /> -->
@@ -46,7 +51,7 @@
 
 [<img align="left" alt="Instagram" width="36px" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-512.png" />][instagram]
 
-<!-- [<img align="left" alt="LinkedIn" width="36px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin] -->
+[<img align="left" alt="LinkedIn" width="36px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" />][linkedin]
 
 <!-- [<img align="left" alt="Twitter" width="36px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-512.png" />][twitter] -->
 
@@ -54,5 +59,6 @@
 
 <!-- [twitter]: -->
 [instagram]: https://www.instagram.com/jagruti_mahapatra/
-<!-- [linkedin]:
-[facebook]: -->
+
+[linkedin]:https://www.linkedin.com/in/jagruti02/
+
