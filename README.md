@@ -1,6 +1,6 @@
 ## About
 
-- _**Hey, am Jagruti, currently a 2nd year undergrad at Vellore Institute of Technology, Vellore.**_
+- _**Sophomore at Vellore Institute of Technology, Vellore.**_
 
 ## Tech Stack
 
@@ -9,6 +9,8 @@
 <img align="left" alt="HTML5" width="36px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-512.png" />
 
 <img align="left" alt="CSS3" width="36px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" />
+
+
 
 <!-- <img align="left" alt="JavaScript" width="36px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" /> -->
 <!--
