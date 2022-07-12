@@ -10,7 +10,23 @@
 
 <img align="left" alt="CSS3" width="36px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" />
 
+<img align="left" alt="tailwind" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
+
+
 <img align="left" alt="JS" width="36px" src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png" />
+
+<img align="left" alt="Python" width="36px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png" />
+
+
+<img align="left" alt="django" width="36px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_django_icon_130645.png" />
+
+<img align="left" alt="C++" width="36px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-512.png" />
+
+
+
+
+
+
 
 
 
