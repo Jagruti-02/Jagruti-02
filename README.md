@@ -1,6 +1,6 @@
 ## About
 
-- _**Sophomore at Vellore Institute of Technology, Vellore.**_
+- _**Pre-final year at Vellore Institute of Technology, Vellore.**_
 
 ## Tech Stack
 
