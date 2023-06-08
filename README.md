@@ -22,6 +22,8 @@
 
 <img align="left" alt="C++" width="36px" src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/404/c_logo-512.png" />
 
+<img align="left" alt="React" width="36px" src="https://www.iconfinder.com/icons/7526871/react_programing_icon" />
+
 
 
 
