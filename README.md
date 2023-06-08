@@ -50,7 +50,7 @@
 
 ### Tools:
 
-<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="VS Code" width="36px" src="https://cdn.iconfinder.com/stored_data/1087296/128/png?token=1686221996-JxI3lsdCDPAOGQ1ZSnuq0NRrks1HK6GNdJnVXa%2FuOUs%3D" />
 
 <img align="left" alt="Git" width="36px" src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" />
 
